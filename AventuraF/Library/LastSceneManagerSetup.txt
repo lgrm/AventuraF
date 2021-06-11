@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CenaAventura.unity
+  isLoaded: 1
+  isActive: 1

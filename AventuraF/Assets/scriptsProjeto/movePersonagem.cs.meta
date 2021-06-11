@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 41cd373dad516b447b20c9ab2f5dbb2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jogador: {instanceID: 0}
+  - animacao: {instanceID: 0}
+  - particulaOvo: {fileID: 1536078784912186, guid: 1a8a79a8d180f524a902a351093ab1eb,
+      type: 2}
+  - particulaPena: {fileID: 1305127657417150, guid: 51318944973eaa74883bae323c20be4c,
+      type: 2}
+  - particulaEstrela: {fileID: 1621363303347276, guid: 984812b8ada4b654e869201003899397,
+      type: 2}
+  - objetoParticulaFogo: {fileID: 100000, guid: b99a0a5998b2736429fd2a2fd1d01c5e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
